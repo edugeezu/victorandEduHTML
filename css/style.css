@@ -20,17 +20,13 @@ body{
     text-align: center; 
 }
 .form{
-    color-white: #f3f3f3;
-    /* background-color: #1b1b32; */
+    color: #f3f3f3;
     background-color: rgba(27, 27, 50, 0.8);
     padding: 100px;
     margin: 20px 300px;
 }
 .survey-form{
     text-align: left;
-    /* position: relative;
-    left: 500px; */
-
 }
 
 input[type=text], select {
@@ -52,7 +48,6 @@ input[type=text], select {
     box-sizing: border-box;
   }
   input[type=checkbox]{
-    /* width: 100%; */
     padding: 15px 12px;
     font-size: 30px;
     line-height: 2em;
